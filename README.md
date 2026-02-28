@@ -1,5 +1,6 @@
-# chya /tʃʰa.ja/
+![](https://github.com/imtiazkun/chya/blob/c6bbdbd59f807f28442e43dbb3947708b5661c2c/images/PREVIEW2.png)
 
+# chya /tʃʰa.ja/
 Stop motion tool for hobbyists.
 ## Requirements
 
