@@ -1,7 +1,6 @@
-# chya
+# chya /tʃʰa.ja/
 
-Stop motion tool: **merge image sequences into video** and **turn video into stop motion** by reducing frames (e.g. keep every Nth frame or lower FPS). Built with CMake and Ninja.
-
+Stop motion tool for hobbyists.
 ## Requirements
 
 - CMake 3.20+
