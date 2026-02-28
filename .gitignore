@@ -1,0 +1,34 @@
+# Build
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+!CMakeLists.txt
+
+# Ninja
+.ninja_deps
+.ninja_log
+*.ninja
+
+# Compiled
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
